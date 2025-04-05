@@ -29,9 +29,9 @@ Sistema de gerenciamento de quadros e cartões inspirado no método Kanban. Dese
 
 - **Java 17+**
 - **JDBC (Java Database Connectivity)**
-- **Lombok** (anotações para reduzir boilerplate)
-- **PostgreSQL** (ou outro banco relacional, configurável)
-- **Maven/Gradle** (dependências e build, se aplicável)
+- **Lombok** 
+- **PostgreSQL** 
+- **Maven/Gradle** 
 
 ---
 
